@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm currently studying Data Science and aspire to 
 - 💼 Aspiring Data Scientist
 - 🌍 Based in Mumbai, India
 - 👨‍💻 Passionate about Data Science, Business Analytics, and Machine Learning
-- 🎓 Currently studying Data Science
+- 🎓 Currently studying Post Graduate in Data Science and Data Analytics from Imarticus, Mumbai
 - 💬 Ask me about anything related to Data Science or Machine Learning
 - 📫 You can reach me via email at [vf.furiyaviral@gmail.com](mailto:vf.furiyaviral@gmail.com) or phone at [+917738074380](tel:+917738074380)
 
